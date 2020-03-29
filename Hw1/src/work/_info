@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+vtraffic_light
+Z0 !s110 1552056980
+!i10b 1
+!s100 Mb`3djC>5TE1H>lT[8KBT0
+I<N?1>4:=BnWEO;@ELl3nO1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/yes19/Desktop/F74066357/src
+w1552056733
+8C:/Users/yes19/Desktop/F74066357/src/traffic_light.v
+FC:/Users/yes19/Desktop/F74066357/src/traffic_light.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1552056980.000000
+!s107 C:/Users/yes19/Desktop/F74066357/src/traffic_light.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yes19/Desktop/F74066357/src/traffic_light.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vtraffic_light_tb
+R0
+!i10b 1
+!s100 =6PBlKUKhgf7=MLejWgfE1
+IjmlPY`>HIlE[Y_UdRk[`]2
+R1
+R2
+w1552040579
+8C:/Users/yes19/Desktop/F74066357/src/traffic_light_tb.v
+FC:/Users/yes19/Desktop/F74066357/src/traffic_light_tb.v
+L0 7
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/yes19/Desktop/F74066357/src/traffic_light_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yes19/Desktop/F74066357/src/traffic_light_tb.v|
+!s101 -O0
+!i113 1
+R5

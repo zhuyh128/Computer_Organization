@@ -1,0 +1,31 @@
+C:/Users/yes19/Desktop/hw4_single_cycle_riscv_cpu/F740XXXXX/src/SRAM.v {1 {vlog -work work -stats=none C:/Users/yes19/Desktop/hw4_single_cycle_riscv_cpu/F740XXXXX/src/SRAM.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SRAM
+
+Top level modules:
+	SRAM
+
+} {} {}} C:/Users/yes19/Desktop/hw4_single_cycle_riscv_cpu/F740XXXXX/src/top.v {1 {vlog -work work -stats=none C:/Users/yes19/Desktop/hw4_single_cycle_riscv_cpu/F740XXXXX/src/top.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module CPU
+-- Compiling module SRAM
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} C:/Users/yes19/Desktop/hw4_single_cycle_riscv_cpu/F740XXXXX/src/top_tb.v {1 {vlog -work work -stats=none C:/Users/yes19/Desktop/hw4_single_cycle_riscv_cpu/F740XXXXX/src/top_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module top_tb
+
+Top level modules:
+	top_tb
+
+} {} {}} C:/Users/yes19/Desktop/hw4_single_cycle_riscv_cpu/F740XXXXX/src/CPU.v {1 {vlog -work work -stats=none {C:\Users\yes19\Desktop\hw4_single_cycle_riscv_cpu\F740XXXXX\src\CPU.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module CPU
+
+Top level modules:
+	CPU
+
+} {} {}}

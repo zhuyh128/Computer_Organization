@@ -1,0 +1,11 @@
+module pc(clk,pc_in,pc_out);
+	input clk;
+	input reg [31:0] pc_in;//after pc extension
+	output reg [31:0] pc_out;
+	
+	always@(posedge clk)
+	begin
+		//if(pcwrite==1)
+		pc_out=pc_in;
+	end
+endmodule

@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+vfpadder
+Z0 !s110 1556640127
+!i10b 1
+!s100 KFHh:XPgY`nZEB;e3ghj90
+IiS5Z9U]SzU:mEhOcz^k@32
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/yes19/Desktop/hw3_fpa/F740XXXXX/src
+w1556640124
+8C:/Users/yes19/Desktop/hw3_fpa/F740XXXXX/src/fpadder.v
+FC:/Users/yes19/Desktop/hw3_fpa/F740XXXXX/src/fpadder.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1556640127.000000
+!s107 C:/Users/yes19/Desktop/hw3_fpa/F740XXXXX/src/fpadder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yes19/Desktop/hw3_fpa/F740XXXXX/src/fpadder.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vtop_tb
+R0
+!i10b 1
+!s100 C1l`_:[O[>Af1PLUK5;753
+I]W=DXNYdkJk_gKKZ9f4`A1
+R1
+R2
+w1556639734
+8C:/Users/yes19/Desktop/hw3_fpa/F740XXXXX/src/fpadder_tb.v
+FC:/Users/yes19/Desktop/hw3_fpa/F740XXXXX/src/fpadder_tb.v
+L0 7
+R3
+r1
+!s85 0
+31
+R4
+!s107 fpadder.v|C:/Users/yes19/Desktop/hw3_fpa/F740XXXXX/src/fpadder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yes19/Desktop/hw3_fpa/F740XXXXX/src/fpadder_tb.v|
+!s101 -O0
+!i113 1
+R5
